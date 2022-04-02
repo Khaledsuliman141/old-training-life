@@ -1,0 +1,278 @@
+/* my rulz */
+body
+{
+    
+}
+
+.container
+{
+    width: 1170px;
+    margin: auto
+}
+
+.clear-fix
+{
+    clear: both
+}
+
+
+/*Start header*/
+header
+{
+    background-image: url(../Images/0.jpg);
+    background-size: cover;
+    height: 820px
+}
+
+header h1
+{
+    margin: auto;
+    color: #f4f4f4;
+    font-size: 60px;
+    opacity: .6;
+    padding-top: 200px;
+    text-align: center
+}
+/*End header*/
+
+/*Start 2nd s */
+
+.second
+{
+    text-align: center;
+    color: #2d2c3b
+}
+
+
+.second .container p
+{
+    padding: 30px 200px
+}
+
+.second .container button
+{
+    background: none;
+    border: 2px solid #2d2c3b;
+    height: 50px;
+    width: 250px;
+    cursor: pointer
+}
+
+.second .container button:hover
+{
+    background-color: #2d2c3b;
+    color: #fff
+}
+
+/*End 2nd s */
+
+/*Start 3rd s */
+
+.third
+{
+    text-align: center;
+    color: #2d2c3b;
+    padding-bottom: 100px;
+    height: 500px
+}
+
+
+.third .container div
+{
+    float: left;
+    width: 25%;
+    height: 200px
+}
+
+.third .container div img
+{
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+    cursor: pointer
+}
+/*End 3rd s */
+
+/*Start 4th s*/
+
+.fourth
+{
+    text-align: center;
+    color: #2d2c3b;
+}
+
+
+.fourth .container p
+{
+    padding: 30px 200px
+}
+
+.fourth .container div
+{
+    float: left;
+    width: 32%;
+    height: 560px;
+    margin: .5%;
+    background-color: #ececec;
+    border: 1px solid #ececec;
+    border-radius: 5px
+}
+
+.fourth .container div img
+{
+    width: 98%;
+    height: 300px;
+    padding: 2px;
+    border-radius: 5px
+}
+
+.fourth .container div h3
+{
+    text-align: left;
+    padding-left: 40px;
+    color: #f5e10c
+}
+
+.fourth .container div p
+{
+    text-align: center;
+    padding: 20px
+}
+/*End 4th s */
+
+/*Start 5th s */
+
+.fifth
+{
+    text-align: center;
+    margin-top: 700px;
+    height: 500px;
+    color: #2d2c3b
+}
+
+
+.fifth .container div
+{
+    background-color: #efefef;
+    text-align: left;
+    float: left;
+    width: 50%;
+    height: 300px
+}
+
+.fifth .container div img
+{
+    width: 100%;
+    height: 100%;
+    cursor: pointer
+}
+
+.fifth .container div h3
+{
+    font-size: 24px;
+    text-align: center
+}
+
+.fifth .container div p
+{
+    margin: 30px;
+}
+
+.fifth .container div button
+{
+    background: none;
+    margin: 30px;
+    border: 2px solid #2d2c3b;
+    height: 50px;
+    width: 160px;
+    cursor: pointer
+}
+
+.fifth .container div button:hover
+{
+    background-color: #2d2c3b;
+    color: #fff
+}
+
+
+.fifth .container button
+{
+   background: none;
+    margin: 30px;
+    border: 2px solid #2d2c3b;
+    height: 50px;
+    width: 250px;
+    cursor: pointer 
+}
+
+.fifth .container button:hover
+{
+    background-color: #2d2c3b;
+    color: #fff
+}
+
+/*End 5th s */
+
+/*Start sixth s */
+
+.sixth
+{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 500px;
+    color: #2d2c3b
+}
+
+.sixth .container div
+{
+    background-color: #efefef 
+}
+
+.sixth .container div iframe
+{
+    width: 1166px;
+    height: 400px
+}
+
+.sixth .container div div
+{
+    float: left;
+    width: 50%;
+    padding: 40px 0
+}
+
+.sixth .container div div p
+{
+    color: #868686
+}
+
+/*End sixth s */
+
+/*Start footer */
+
+footer
+{
+    margin-top: 50px;
+    background-color: #efefef;
+    height: 60px
+}
+
+footer .container .left
+{
+    float: left;
+    color: #868686
+}
+
+footer .container .right
+{
+    float: right;
+    color: #868686
+}
+/*End footer */
+
+/*Start my fram*/
+h2
+{
+    padding: 40px
+}
+/*End my fram*/
